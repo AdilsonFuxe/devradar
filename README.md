@@ -57,7 +57,7 @@ para obter o npm https://www.npmjs.com/get-npm
 
 1. Clone the repo
 ```sh
-git clone https://github.com/your_username_/Project-Name.git
+git clone https://github.com/AdilsonFuxe/devradar.git
 ```
 2. Configuração do servidor
  
